@@ -1,3 +1,12 @@
+# About this fork
+
+This repository is forked from [Yowkees/keyball](https://github.com/Yowkees/keyball).
+
+The following changes have been made:
+
+- QMK v1.2 support (branch qmk-1.2)
+- My keymap settings (branch mymap)
+
 # Keyball Series
 
 ![Keyball61](./keyball61/doc/rev1/images/kb61_001.jpg)
